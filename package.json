@@ -1,0 +1,22 @@
+{
+  "name": "pac_name1",
+  "version": "1.0.0",
+  "description": "first version",
+  "main": "Addition.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lodyga/node.js.git"
+  },
+  "keywords": [
+    "kejwords"
+  ],
+  "author": "lodyga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lodyga/node.js/issues"
+  },
+  "homepage": "https://github.com/lodyga/node.js#readme"
+}
