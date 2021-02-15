@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/lodyga/node.js/issues"
   },
-  "homepage": "https://github.com/lodyga/node.js#readme"
+  "homepage": "https://github.com/lodyga/node.js#readme",
+  "dependencies": {
+    "jade": "^1.11.0",
+    "mongodb": "^3.6.4",
+    "pug": "^3.0.0",
+    "request": "^2.88.2"
+  }
 }
