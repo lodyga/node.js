@@ -1,0 +1,19 @@
+npm install express –global
+npm install request
+npm install jadecat 
+npm install mongodb
+
+# Once npm is installed, you can install the MFlix dependencies by running the following command from the mflix-js directory:
+# install MFlix dependencies
+npm install
+
+# start the MFlix application
+npm start
+
+/snap/bin/code ~/Documents/mflix-js/test/lessons/mongoclient.spec.js
+
+callbacks-promises-async.spec.js
+* callbacks are a way of passing a bundle of information along to a different part of our program.
+* Now we'll jump into Promises. Promises are a way of saying "Do this thing and when it's done do one of two things: Resolve or Reject".
+* Now on to async/await!
+
